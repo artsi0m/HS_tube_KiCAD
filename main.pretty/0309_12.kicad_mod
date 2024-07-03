@@ -1,4 +1,4 @@
-(footprint "0309_12_334"
+(footprint "0309_12"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "0309_12_334"
+	(property "Value" "0309_12"
 		(at -3.175 0.6858 0)
 		(layer "F.Fab")
 		(uuid "7ee77277-5564-4b0b-b209-1b82edf0c438")

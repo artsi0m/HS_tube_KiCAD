@@ -1,4 +1,4 @@
-(footprint "B-DIL_336"
+(footprint "B-DIL"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "B-DIL_336"
+	(property "Value" "B-DIL"
 		(at -3.175 1.27 0)
 		(layer "F.Fab")
 		(uuid "93b113df-4845-4fd8-997a-412b7c5d8a0a")

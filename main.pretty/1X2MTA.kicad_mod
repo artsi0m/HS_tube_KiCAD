@@ -1,4 +1,4 @@
-(footprint "1X2MTA_127"
+(footprint "1X2MTA"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "1X2MTA_127"
+	(property "Value" "1X2MTA"
 		(at -3.4369 -4.4148 0)
 		(layer "F.Fab")
 		(uuid "ac4a90f6-7ee2-4fe7-a98a-8c370c9bbb7a")

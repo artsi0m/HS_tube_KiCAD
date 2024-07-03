@@ -1,4 +1,4 @@
-(footprint "C102-064X133_334"
+(footprint "C102-064X133"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "C102-064X133_334"
+	(property "Value" "C102-064X133"
 		(at -1.524 2.032 0)
 		(layer "F.Fab")
 		(uuid "baea42f5-c3ca-4104-9e23-95c9cff37b51")

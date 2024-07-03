@@ -1,4 +1,4 @@
-(footprint "NOVAL"
+(footprint "TUBE"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -15,7 +15,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "NOVAL"
+	(property "Value" "TUBE"
 		(at -4.064 17.018 0)
 		(layer "F.Fab")
 		(uuid "e1a44183-c1a7-460f-880d-2fce100d2e48")

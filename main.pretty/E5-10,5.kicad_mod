@@ -1,4 +1,4 @@
-(footprint "E5-10,5_334"
+(footprint "E5-10,5"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "E5-10,5_334"
+	(property "Value" "E5-10,5"
 		(at -3.1242 3.2258 0)
 		(layer "F.Fab")
 		(uuid "c6eb89c8-894c-411a-b348-387523300718")

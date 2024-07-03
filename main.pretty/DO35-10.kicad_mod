@@ -1,4 +1,4 @@
-(footprint "DO35-10_210"
+(footprint "DO35-10"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			(justify left bottom)
 		)
 	)
-	(property "Value" "DO35-10_210"
+	(property "Value" "DO35-10"
 		(at -2.159 2.667 0)
 		(layer "F.Fab")
 		(uuid "a0933736-577d-42f1-8d45-51b30b4a545c")

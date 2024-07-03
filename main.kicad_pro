@@ -428,8 +428,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "main"
+    ],
+    "pinned_symbol_libs": [
+      "main-eagle-import"
+    ]
   },
   "meta": {
     "filename": "main.kicad_pro",
@@ -439,7 +443,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.1524,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -449,7 +453,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 1.0,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -580,7 +584,7 @@
   "sheets": [
     [
       "ef4292e0-be82-4a39-9885-232129ff4818",
-      "Root"
+      "Корневой лист"
     ]
   ],
   "text_variables": {}
