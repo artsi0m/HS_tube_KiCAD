@@ -1,7 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/emacs,kicad,latex
-# Edited
-
-### Emacs ###
 # -*- mode: gitignore; -*-
 *~
 \#*\#
