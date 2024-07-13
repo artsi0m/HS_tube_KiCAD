@@ -463,7 +463,22 @@
       "version": 3
     },
     "net_colors": {
-      "GND": "rgb(7, 40, 255)"
+      "GND": "rgb(0, 255, 255)",
+      "Net-(B1-Pad+)": "rgb(132, 0, 0)",
+      "Net-(B1-PadAC1)": "rgb(194, 0, 0)",
+      "Net-(B1-PadAC2)": "rgb(255, 0, 0)",
+      "Net-(C1-Pad1)": "rgb(204, 102, 0)",
+      "Net-(C1-Pad2)": "rgb(221, 133, 0)",
+      "Net-(C3-Pad1)": "rgb(255, 153, 0)",
+      "Net-(C3-Pad2)": "rgb(194, 194, 0)",
+      "Net-(C4-Pad1)": "rgb(255, 255, 0)",
+      "Net-(C6-Pad1)": "rgb(255, 255, 194)",
+      "Net-(C6-Pad2)": "rgb(0, 132, 0)",
+      "Net-(C8-Pad1)": "rgb(0, 194, 0)",
+      "Net-(C8-Pad2)": "rgb(0, 255, 0)",
+      "Net-(C9-Pad1)": "rgb(0, 0, 132)",
+      "Net-(V1A-TA)": "rgb(0, 0, 194)",
+      "Net-(V1A-TG)": "rgb(0, 0, 255)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
@@ -473,7 +488,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/artsi0m/source/repos/HS_tube_KiCAD/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
